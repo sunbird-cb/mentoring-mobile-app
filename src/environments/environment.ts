@@ -1,7 +1,1 @@
-export const environment = {
-  production: false,
-  staging: false,
-  dev: false,
-  baseUrl: 'your api url',
-  sqliteDBName: 'DB',
-};
+export const environment = {   production: true,   name: '',   staging: false,   dev: false,   baseUrl: '',   sqliteDBName: '',   deepLinkUrl: '',   privacyPolicyUrl:'',   termsOfServiceUrl:'',   supportEmail: "",   recaptchaSiteKey:"",   password:{       }, };
