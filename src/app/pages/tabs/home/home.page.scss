@@ -19,7 +19,7 @@ h3{
     font-size:16px;
     height: 36px;
     max-width: 600px;
-    min-width: 350px;
+    min-width: 300px;
 }
 .segment-wrapper{
     padding: 6px 0px 6px 0px;
@@ -68,7 +68,7 @@ h3{
     color: var(--black);
 }
 .card-button{
-    --background:rgb(53, 120, 184);
+    --background:var(--ion-color-primary);
     width: 85% !important;
     font-weight: bold;
     height: 43px;
